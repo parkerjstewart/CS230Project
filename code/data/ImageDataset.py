@@ -76,9 +76,9 @@ class ImageDataset(Dataset):
             id_num = image["image_id"]
             category_id = image["category_id"]
             if category_ids_to_name[category_id] == "Real":
-                self.image_ids_to_labels[id_num] = 0
+                self.image_ids_to_labels[id_num] = 0.0
             else:
-                self.image_ids_to_labels[id_num] = 1 
+                self.image_ids_to_labels[id_num] = 1.0
         
         self.image_ids = list(self.image_ids_to_labels.keys())
 
