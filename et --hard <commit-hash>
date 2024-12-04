@@ -1,0 +1,41 @@
+[33mcommit afb4fedca98fb8322987535ee4da821fe9a37574[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-36-7.us-west-2.compute.internal>
+Date:   Tue Nov 19 03:08:05 2024 +0000
+
+    lots
+
+[33mcommit 7304aaf54f6cd051b52f5023b858873111a67bc8[m
+Author: EC2 Default User <ec2-user@ip-172-31-36-7.us-west-2.compute.internal>
+Date:   Tue Nov 19 02:18:50 2024 +0000
+
+    lots has been done
+
+[33mcommit 2773318b6580782ea0ff8df020e04eecf3af6765[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-66.ec2.internal>
+Date:   Mon Nov 18 14:34:05 2024 +0000
+
+    update
+
+[33mcommit 848cb2588fe3470f3f78aef146741845048be74f[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-66.ec2.internal>
+Date:   Mon Nov 18 11:25:25 2024 +0000
+
+    updates requirements.txt
+
+[33mcommit 02ec24152ef692b288ba4d0d8d8545f70a493a9c[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-66.ec2.internal>
+Date:   Mon Nov 18 10:56:02 2024 +0000
+
+    creates training for xceptionnet
+
+[33mcommit 9dcba9cd67e8f89039758dd875ed216ac6e3888a[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-66.ec2.internal>
+Date:   Mon Nov 18 10:23:24 2024 +0000
+
+    standardizes labels for dataloader
+
+[33mcommit b7cc0fe40c0062d978953ade8c5cf7f129530a10[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-66.ec2.internal>
+Date:   Mon Nov 18 09:32:01 2024 +0000
+
+    Initial commit: Add project files
